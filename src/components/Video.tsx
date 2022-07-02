@@ -89,10 +89,12 @@ export function Video(props: VideoProps) {
         </div>
 
         <div className="gap-8 mt-20 grid grid-cols-2">
+
           <a
             href=""
             className="bg-gray-700 rounded overflow-hidden flex items-stretch gap-6 hover:bg-gray-600 transition-colors pointer-events-none"
           >
+
             <div className="bg-green-700 h-full p-6 flex items-center">
               <FileArrowDown size={40} />
             </div>
@@ -108,10 +110,12 @@ export function Video(props: VideoProps) {
             </div>
           </a>
 
+
           <a
             href=""
             className="bg-gray-700 rounded overflow-hidden flex items-stretch gap-6 hover:bg-gray-600 transition-colors pointer-events-none"
           >
+
             <div className="bg-green-700 h-full p-6 flex items-center">
               <FileArrowDown size={40} />
             </div>
